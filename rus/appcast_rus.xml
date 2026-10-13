@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Launcher updater</title>
+        <description>Thе latest Launcher updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.5.0</title>
+            <sparkle:releaseNotesLink>
+                https://storage.yandexcloud.net/portal-tech-bucket/launcher/rus/0.5.0+16/release_notes_ru.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Ср, 16 сен 2026 18:34:38:+0300 %g</pubDate>
+            <enclosure
+                url="https://storage.yandexcloud.net/portal-tech-bucket/launcher/rus/0.5.0+16/vrarena-launcher-setup.exe"
+                sparkle:dsaSignature="MDwCHD7ntohv0bG0RKnsFjWyPpZHa8Cinj9QqSEcKLACHF2f6b9bB45Kz9tAblW+os+a0SmJBZjwFjNPUXs="
+                sparkle:version="0.5.0"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
